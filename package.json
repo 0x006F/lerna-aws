@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "lerna": "^2.1.2"
+  },
+  "name": "lerna-aws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giridharangm/lerna-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giridharangm/lerna-aws/issues"
+  },
+  "homepage": "https://github.com/giridharangm/lerna-aws#readme",
+  "description": ""
+}
